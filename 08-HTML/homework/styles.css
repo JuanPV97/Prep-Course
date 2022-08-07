@@ -1,11 +1,13 @@
 h1 {
-    color: lightblue
+    color: red;
+    text-align: center;
+    font-style: oblique;
 }
 img {
     width: 400px 
 }
 #spanId{
-    font-size: 18px;
+    font-size: 28px;
     margin: 50px;
 }
 #thirdDiv{
@@ -14,5 +16,11 @@ img {
     background-color: black;
     padding: 50px;
     border: 10px solid red;
+    margin: auto;
 }
-
+.divClass{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-style: unset;
+}
